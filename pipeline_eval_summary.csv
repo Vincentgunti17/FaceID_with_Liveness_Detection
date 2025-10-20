@@ -1,0 +1,11 @@
+metric,value
+Top1_identification_accuracy,1.0
+FAR,0.0
+FRR,0.08333333333333333
+Precision_accept,0.8181818181818182
+Recall_accept,0.9
+F1_accept,0.8571428571428571
+EER,0.16666666666666666
+EER_threshold,0.745
+BASE_THR_used,0.72
+GAP_used,0.08

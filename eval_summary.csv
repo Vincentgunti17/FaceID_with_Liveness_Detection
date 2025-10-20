@@ -1,0 +1,9 @@
+metric,value
+AUC,0.9847872160054255
+EER,0.03357917938284166
+EER_threshold,0.24191898107528687
+Best_accuracy,1.0
+Best_threshold,-0.3540855050086975
+Precision_at_best,0.9849699398797596
+Recall_at_best,1.0
+F1_at_best,0.9924280666330136
